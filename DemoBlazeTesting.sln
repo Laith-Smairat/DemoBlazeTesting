@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoBlazeTesting", "DemoBlazeTesting\DemoBlazeTesting.csproj", "{B134AD22-CC6C-426D-98B1-207FDBF15810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B134AD22-CC6C-426D-98B1-207FDBF15810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B134AD22-CC6C-426D-98B1-207FDBF15810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B134AD22-CC6C-426D-98B1-207FDBF15810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B134AD22-CC6C-426D-98B1-207FDBF15810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AAB3188-988C-4BB0-9825-0FED51FAEC5B}
+	EndGlobalSection
+EndGlobal
